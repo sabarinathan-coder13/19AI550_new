@@ -137,6 +137,7 @@ Check the following
 3. WaypointGraph script on a manager
 4. AICharacter assigned a start and goal
 ### Output:
+<img width="1280" height="720" alt="WhatsApp Image 2026-08-08 at 10 12 44 AM" src="https://github.com/user-attachments/assets/6af4f707-beb3-4786-99a6-d306d307b394" />
 
 
 
