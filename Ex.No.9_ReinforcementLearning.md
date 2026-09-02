@@ -1,6 +1,6 @@
 # Ex.No: 9  Implementation of RollarBall Design using Reinforcement Learning 
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE:02-09-2026                                                                            
+### REGISTER NUMBER : 212225230231
 ### AIM: 
 To write a program to design RollerBall and train the Rollerbal by Reinforcement learning  in Unity 
 ### Installation Required 
@@ -157,14 +157,23 @@ behaviors:
     max_steps: 500000
     time_horizon: 64
     summary_freq: 10000
+```
 ### Output:
 
+<img width="1265" height="677" alt="WhatsApp Image 2026-09-02 at 2 35 29 PM" src="https://github.com/user-attachments/assets/b9c7127d-30fa-458d-b2ec-3ef1e6657947" />
+
+<img width="1453" height="478" alt="WhatsApp Image 2026-09-02 at 11 08 45 AM" src="https://github.com/user-attachments/assets/71a8c18b-e6dd-4333-b581-6fc1fa03c77d" />
 
 
+<img width="726" height="507" alt="WhatsApp Image 2026-09-02 at 11 08 48 AM" src="https://github.com/user-attachments/assets/fcd59951-77f7-4d41-ae98-d7fe85145e46" />
 
 
+<img width="1453" height="497" alt="WhatsApp Image 2026-09-02 at 11 08 52 AM" src="https://github.com/user-attachments/assets/658b3c71-d759-4334-bf5e-e46b31cfe68f" />
 
 
+<img width="1450" height="511" alt="WhatsApp Image 2026-09-02 at 11 08 52 AM (1)" src="https://github.com/user-attachments/assets/19fd7ed7-a8af-4361-b138-2edab042820e" />
+
+<img width="1446" height="528" alt="WhatsApp Image 2026-09-02 at 11 08 53 AM" src="https://github.com/user-attachments/assets/fa9c52b0-6bbf-4e26-8f04-8dc95586f857" />
 
 
 ### Result:
