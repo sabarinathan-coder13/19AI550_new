@@ -3,7 +3,7 @@
 ### REGISTER NUMBER : 212225230231
 ### AIM: 
 To develop a game Coin Collector 3Din Unity 
-### Algorithm:
+## Algorithm:
 ```
 1.Start the game.
 2.Create the player, ground, coins, obstacles, and finish point.
@@ -24,7 +24,7 @@ Space → Jump
 10.Provide a Restart option to play again.
 11.End the game.
 ```  
-### Program:
+## Program:
 ### Main Player Script:
 ```
 using UnityEngine;
