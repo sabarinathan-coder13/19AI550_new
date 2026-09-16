@@ -2,7 +2,7 @@
 ### DATE:  31.08.2026                                                                          
 ### REGISTER NUMBER : 212225230231
 ## AIM: 
-To develop a game Coin Collector 3Din Unity 
+To develop a game Coin Collector 3D in Unity 
 ## Algorithm:
 ```
 1.Start the game.
