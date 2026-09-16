@@ -91,7 +91,7 @@ public class GameManager : MonoBehaviour
     }
 }
 ```
-### Output:
+## Output:
 
 <img width="1600" height="687" alt="WhatsApp Image 2026-09-16 at 9 51 34 AM" src="https://github.com/user-attachments/assets/03945892-6077-44d6-b9f3-0b21f66b964a" />
 
@@ -103,6 +103,6 @@ public class GameManager : MonoBehaviour
 
 <img width="1600" height="999" alt="WhatsApp Image 2026-09-16 at 9 51 35 AM" src="https://github.com/user-attachments/assets/d6aa7e9c-44ef-44d6-adcb-f8a63840d884" />
 
-### Result:
+## Result:
 Thus, the game was successfully developed using Unity and implemented with basic AI technology for interactive gameplay.
 
