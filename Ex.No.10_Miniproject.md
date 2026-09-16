@@ -1,7 +1,7 @@
 # Ex.No: 10  Implementation of 3D game Coin Collector
 ### DATE:  31.08.2026                                                                          
 ### REGISTER NUMBER : 212225230231
-### AIM: 
+## AIM: 
 To develop a game Coin Collector 3Din Unity 
 ## Algorithm:
 ```
